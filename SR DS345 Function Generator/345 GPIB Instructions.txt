@@ -1,0 +1,1 @@
+To enable the GPIB on the SR DS345, press [SHIFT][GPIB] and turn it to the on position.  Pressing [SHIFT][GPIB] again will allow you to set the GPIB address.
